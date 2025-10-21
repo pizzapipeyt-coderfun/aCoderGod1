@@ -1,5 +1,4 @@
-Purple Blue And Pink Code Here: 
- let hue = 220;
+let hue = 220;
 let direction = 1;
 
 function neonPurpleBlueEverything() {
